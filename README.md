@@ -12,3 +12,4 @@ Files are stored in the cloud by the system, enabling users to view their files 
 # Coding Standards Statement
 This repository follows the below standard:
 1. The code is written in Java with SQL integration (via SQLite 3) for database management using the NetBeans 16 2022
+2. Use Docker for this project to run NetBeans 16 2020
